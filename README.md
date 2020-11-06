@@ -3,4 +3,4 @@
 Sod shock tubeに対しての数値解析コードです。
 時間2次精度のためにルンゲクッタ法、空間3次精度のためにMUSCL法、流束制限関数にminmod関数を使用しています。  
 
-This software is released under the MIT License, see LICENSE.txt.
+This software is released under the MIT License, see LICENSE.
